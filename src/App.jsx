@@ -350,9 +350,10 @@ function noVote() {
     return (
         <div>
             <h1> Voting App </h1>
+            <h1> Kya next class mein CSS ka test hona chahiye? </h1>
             <div>
-                <button>YES: {yes}</button>
-                <button>NO: {no}</button>
+                <p>YES: {yes}</p>
+                <p>NO: {no}</p>
             </div>
 
             <input
